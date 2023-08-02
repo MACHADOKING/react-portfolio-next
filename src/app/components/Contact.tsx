@@ -1,3 +1,5 @@
+"use client";
+
 import emailjs from "@emailjs/browser";
 import { FormEvent, useRef, useState } from "react";
 import { FaSpinner, FaWhatsapp } from "react-icons/fa";
